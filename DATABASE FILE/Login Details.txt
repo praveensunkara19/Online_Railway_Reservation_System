@@ -6,7 +6,7 @@
 
 * Admin Login Details
 
-Email   : praveen@gmail.com
+Email   : praveensunkara19@gmail.com
 Username: praveens
 Password: praveens
 
